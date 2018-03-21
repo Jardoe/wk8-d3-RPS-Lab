@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RPS Lab</string>
+    <string name="rock_button">Rock</string>
+    <string name="paper_button">Paper</string>
+    <string name="scissors_button">Scissors</string>
+    <string name="welcome">Welcome to Rock, Paper, Scissors!</string>
+    <string name="game_start">Play Game!</string>
+</resources>
